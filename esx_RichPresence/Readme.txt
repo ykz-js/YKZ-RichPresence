@@ -1,4 +1,4 @@
-Set BOT ID in discord.lua  SetDiscordAppId()
-Set Logo BIG in SetDiscordRichPresenceAsset("big")
-Set Logo SMALL in SetDiscordRichPresenceAssetSmall("small")
-Page for register bot -- https://discord.com/developers/applications/
+Colocar BOT ID en discord.lua  SetDiscordAppId()
+Colocar Logo BIG en SetDiscordRichPresenceAsset("big")
+Colocar Logo SMALL en SetDiscordRichPresenceAssetSmall("small")
+Pagina para registrar bot -- https://discord.com/developers/applications/
