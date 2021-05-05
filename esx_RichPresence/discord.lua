@@ -3,7 +3,7 @@ Citizen.CreateThread(function()
       
       Citizen.Wait(5*1000) -- Checkea cada 5 segundos
       
-      SetDiscordAppId(822211057749590086) -- ID Del BOT
+      SetDiscordAppId(idbot) -- ID Del BOT
 
       local player = PlayerId()
         local name = GetPlayerName(player)
